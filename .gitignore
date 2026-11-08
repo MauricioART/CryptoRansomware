@@ -1,0 +1,8 @@
+/build/
+/out/
+/.vs/
+/CMakeUserPresets.json
+*.vcxproj.user
+*.pdb
+*.obj
+*.exe
